@@ -19,7 +19,7 @@ export default class App extends Component {
   render() {
     return (                                                                  
       <>
-      <BrowserRouter basename='/news'>
+      <BrowserRouter basename='/prototype'>
       <div className='container my-3'>
      
           <Nevbar/>
