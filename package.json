@@ -1,6 +1,6 @@
 {
-  "name": "newsapp",
-  "homepage": " https://Shubham-Bahirat.github.io/headlines.in",
+  "name": "prototype",
+  "homepage": " https://Shubham-Bahirat.github.io/news",   
   "version": "0.1.0",
   "private": false,
   "dependencies": {
